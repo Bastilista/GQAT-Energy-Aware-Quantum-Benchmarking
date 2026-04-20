@@ -183,7 +183,7 @@ If you use this code or methodology in your research, please cite:
   booktitle = {Proceedings of the IEEE International Conference},
   year      = {2026},
   address   = {Uyo, Akwa Ibom State, Nigeria},
-  note      = {Code: https://github.com/YourUsername/GQAT-Energy-Aware-Quantum-Benchmarking}
+  note      = {Code: https://github.com/Bastilista/GQAT-Energy-Aware-Quantum-Benchmarking}
 }
 ```
 
